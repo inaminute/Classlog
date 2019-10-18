@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f73917</color>
+    <color name="colorPrimaryDark">#ff5420</color>
+    <color name="colorAccent">#ff5420</color>
+
+    <color name="fab_btn">#018e80</color>
+    <color name="outline_color">#bcbebd</color>
+
+</resources>
